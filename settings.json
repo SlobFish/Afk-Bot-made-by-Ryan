@@ -1,12 +1,12 @@
 {
-  "name": "AFK Bot",
+  "name": "Scrap",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "Scrapermapper",
+    "password": "ddddd0-",
     "type": "offline"
   },
   "server": {
-    "ip": "SchoolSmp-RsTy.aternos.me",
+    "ip": "grasshopper.aternos.host:16587",
     "port": 16587,
     "version": "",
     "try-creative": false
